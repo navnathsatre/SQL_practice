@@ -1,8 +1,8 @@
 # ROLE OF SQL IN DATA SCIENCE
 A major part of a Data Scientist's role involves handling data from a variety of Data Sources. This inclueds:<br/>
-* Extracting the data out of production schema
+* Extracting the data out of production schema.
 * Querying databases and concatenating datasets together.
-* Cleaning and formatting data
+* Cleaning and formatting data.
 * Storing data into a suitable physical location so you can run your analysis. 
 ###  What is Database?
 A data base is a collection of related data which represent some aspect of the real word. A database system is designed to be builld and populated for a certain task.
