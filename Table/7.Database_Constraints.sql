@@ -111,7 +111,7 @@ select * from authors;
 
 create table books(bookid int PRIMARY KEY,
                    title varchar(255),
-                   aid int,           -- take diff name 
+                   aid int,           -- take different name 
                    foreign key(aid) REFERENCES authors(authorid)
                    ON DELETE CASCADE
                    ON UPDATE CASCADE);
