@@ -21,7 +21,7 @@ __TYPES OF DBMS__ <br/>
 ### What is RDBMS?
 -- An RDBMS is a subset of DBMS designed speecifically for relational databases.<br/>
 -- Stored data in structured format, using rows and columns.<br/>
--- Is is "relational" because the values within each table rea related to each other.<br/>
+-- Is is "relational" because the values within each table are related to each other.<br/>
 -- Table may also be related to each other.<br/>
 -- The relational structure make it possible to run queres across multiple tables.
 ### Popular DBMS Software
