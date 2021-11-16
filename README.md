@@ -64,7 +64,7 @@ __PRIMARY KEY__ | __FOREIGN KEY__
 |---|---|---|---|---|
 |DROP, RENAME, CREATE, ALTER, TRUNCATE|INSERT, UPDATE, DELETE|SELECT|GRANT, REVOKE|COMMIT, ROLLBACK, SAVEPOINT, SET TRANSACTION|
 # Database Objects
-Any object in a database that is used to store reference data. database objects are created using the create command They are used to hold and manipulate the data<br/>
+Any object in a database that is used to store reference data. database objects are created using the create command They are used to hold and manipulate the data.<br/>
 |__Table :__|Basic unit of storage; composed rows and columns|
 |---|---|
 
@@ -81,45 +81,3 @@ Any object in a database that is used to store reference data. database objects 
 * Numeric Data Types
 * Data & Time
 * Large Object Data(LOB) Types
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
